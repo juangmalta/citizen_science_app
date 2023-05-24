@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape xmlns:android="http://schemas.android.com/apk/res/android">
+            <size
+                android:width="340px"
+                android:height="24px"
+                />
+            <solid android:color="#35AF51" /> <!-- Replace with your desired grey color -->
+        </shape>
+    </item>
+</selector>
