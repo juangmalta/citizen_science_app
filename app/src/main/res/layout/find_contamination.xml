@@ -59,7 +59,7 @@
                     android:layout_marginBottom="73dp"
                     android:text="Description"
                     android:textColor="@color/white"></TextView>
-                
+
             </RelativeLayout>
 
             <!-- Add more views or content here -->
